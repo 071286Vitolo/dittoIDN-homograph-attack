@@ -8,5 +8,5 @@ require (
 	github.com/evilsocket/islazy v1.10.6
 	github.com/jpillora/go-tld v1.1.1
 	github.com/likexian/whois-parser-go v1.15.2
-	golang.org/x/net v0.0.0-20201024042810-be3efd7ff127
+	golang.org/x/net v0.36.0
 )
